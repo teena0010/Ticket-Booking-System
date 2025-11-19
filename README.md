@@ -22,3 +22,11 @@ A console-based Ticket Booking System implemented in C using circular queues, fi
 - ANSI Escape Codes for color output
 
 ## 📁 File Structure
+ticket_booking_system/ ├── booking.txt         # Stores booking records 
+├── main.c              # Main source code └── README.md           # Project documentation
+
+
+🙌 Author
+Teena
+Department of Computer Science and Engineering
+Academic Year: 2025–2026
